@@ -5,3 +5,28 @@ body{
   background-image:url(gold_back.jpg);
   background-repeat:repear-y;
 }
+h1,h2,h3,h4,p,ul,li{
+  margin:0;
+  padding:0;
+}
+header{
+  width:980px;
+  color:brown;
+  background-color:bisque;
+  overfiow:hidden;
+}
+#logo{
+  display:block;
+  margin-left:10px;
+  margin-bottom:70px;
+  float:left;
+}
+#head_meg{
+  margin-top:20px;
+  margin-left:70px;
+  float:left;
+}
+h1{
+  font-size:28px;
+  color:crimson;
+}
