@@ -1,7 +1,7 @@
-@hcarset "UTF-8";
+@chcarset "UTF-8";
 body{
   font-family:"Yu Gothic",YuGothic,"MS Pゴジック",Meiryo;
   font-size:16px;
-  background-image:url(../gold_back.jpg);
+  background-image:url(gold_back.jpg);
   background-repeat:repear-y;
 }
