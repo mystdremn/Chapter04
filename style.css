@@ -34,7 +34,8 @@ nav{
    padding-left:10px;
    padding-right:10px;
 }
-nav ul{
+nav ul{list-style-type:none;}
+nav li{
    width:160px;
    height:60px;
    float:left;
