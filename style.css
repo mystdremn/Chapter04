@@ -18,7 +18,7 @@ header{
 #logo{
   display:block;
   margin-left:10px;
-  margin-bottom:70px;
+  margin-bottom:10px;
   float:left;
 }
 #head_meg{
@@ -46,10 +46,10 @@ nav a{
    text-align:center;
    color:darkred;
    text-decoration:none;
-   background-image:url(../gold.png);
+   background-image:url(gold.png);
 }
 nav a:hover{
    color:crimson;
    font-weight:bold;
-   background-image:url(../silvar/png);
+   background-image:url(silvar.png);
 }
