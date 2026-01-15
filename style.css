@@ -122,3 +122,10 @@ h4{
     background-color:burlywood;
     float:left;
 }
+footer{
+    clear:both;
+    width:940px;
+    padding:20px;
+    text-align:right;
+    background-color:biaque;
+}
