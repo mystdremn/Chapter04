@@ -79,7 +79,7 @@ h3{
     line-height:70px;
     text-align:center;
     color:darkred;
-    background-image:url(frame.png)
+    background-image:url(frame.png);
     float:left;
 }
 .margin_p{
