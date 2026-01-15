@@ -3,7 +3,7 @@ body{
   font-family:"Yu Gothic",YuGothic,"MS Pゴジック",Meiryo;
   font-size:16px;
   background-image:url(gold_back.jpg);
-  background-repeat:repear-y;
+  background-repeat:repeat-y;
 }
 h1,h2,h3,h4,p,ul,li{
   margin:0;
@@ -51,5 +51,74 @@ nav a{
 nav a:hover{
    color:crimson;
    font-weight:bold;
-   background-image:url(silvar.png);
+   background-image:url(silver.png);
+}
+main{
+    width:960px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-bottom:20px;
+    background-color:antiquewhite;
+    overflow:hiddden;
+}
+h2{
+    font-size:24px;
+    width:400px;
+    height:60px;
+    margin-bottom:20px;
+    line-height:60px;
+    text-align:center;
+    background-image:url(silver-h2.png);
+}
+h3{
+    width:220px;
+    height:70px;
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size:20px;
+    line-height:70px;
+    text-align:center;
+    coloe:darkred;
+    background-image:url(frame.png)
+    float:left;
+}
+.margin_p{
+    margin-top:45px;
+    margin-left:20px;
+    color:brown;
+    float:left;
+}
+#picup_img{
+    clear:both;
+    margin-right:20px;
+    float:left;
+}
+#picup_p{
+    width:440px;
+    height:280px;
+    padding:10px;
+    margin-right:20px;
+    border-radius:10px;
+    background-color:burlywood;
+    float:left;
+}
+h4{
+    width:200px;
+    height:60px;
+    margin-bottom:10px;
+    font-size:20px;
+    line-height:60px;
+    color:darkred;
+    text-align:center;
+    border-radius:10px;
+    background-image:url(goldpanel.png);
+}
+#classic{clear:both;}
+.sweets{
+    width:280px;
+    padding:10px;
+    margin-right:20px;
+    border-radius:10px;
+    background-color:burlywood;
+    float:left;
 }
