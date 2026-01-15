@@ -43,7 +43,7 @@ nav li{
 nav a{
    display:block;
    line-height:60px;
-   text-align:center:
+   text-align:center;
    color:darkred;
    text-decoration:none;
    background-image:url(../gold.png);
