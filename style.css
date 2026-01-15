@@ -59,7 +59,7 @@ main{
     padding-left:20px;
     padding-bottom:20px;
     background-color:antiquewhite;
-    overflow:hiddden;
+    overflow:hidden;
 }
 h2{
     font-size:24px;
@@ -78,7 +78,7 @@ h3{
     font-size:20px;
     line-height:70px;
     text-align:center;
-    coloe:darkred;
+    color:darkred;
     background-image:url(frame.png)
     float:left;
 }
