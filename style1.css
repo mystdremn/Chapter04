@@ -174,3 +174,18 @@ td{width:600px;}
          background-repeat:no-repeat;
          background-size:100% 60px;
     }
+    main{padding:2%;}
+    h2{
+       font-size:20px;
+       width:32-px;
+       height:48px;
+       margin:15px auto;
+       background-size:contain;
+    }
+    th{
+       width:25%;
+       min-width:120px;
+       max-width:200px;
+    }
+    textarea{width:95;}
+}
